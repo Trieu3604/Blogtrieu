@@ -1,0 +1,109 @@
+/* Custom theme styles */
+:root {
+  --primary-color: #2D5F7C;
+  --secondary-color: #88A0A8;
+  --accent-color: #D6E5E3;
+  --background-color: #f8f9fa;
+  --text-color: #2c3e50;
+  --header-font: 'Montserrat', sans-serif;
+  --body-font: 'Open Sans', sans-serif;
+}
+
+body {
+  font-family: var(--body-font);
+  background-color: var(--background-color);
+  color: var(--text-color);
+  line-height: 1.8;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--header-font);
+  color: var(--primary-color);
+}
+
+.site-header {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  padding: 2rem 0;
+}
+
+.site-title {
+  color: white !important;
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-transform: none;
+}
+
+.nav-link {
+  color: var(--accent-color) !important;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+  color: white !important;
+  transform: translateY(-2px);
+}
+
+.card {
+  border: none;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.post-title {
+  font-size: 1.8rem;
+  color: var(--primary-color);
+}
+
+.post-meta {
+  color: var(--secondary-color);
+  font-size: 0.9rem;
+}
+
+.post-content {
+  font-size: 1.1rem;
+  line-height: 1.9;
+}
+
+.btn-primary {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.btn-primary:hover {
+  background-color: var(--secondary-color);
+  border-color: var(--secondary-color);
+}
+
+/* Custom footer */
+.site-footer {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 2rem 0;
+  margin-top: 4rem;
+}
+
+/* Custom code blocks */
+pre {
+  background-color: #2d2d2d;
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+/* Custom blockquotes */
+blockquote {
+  border-left: 4px solid var(--primary-color);
+  padding-left: 1rem;
+  font-style: italic;
+  color: var(--secondary-color);
+}
+
+/* Custom image styling */
+.post-content img {
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}

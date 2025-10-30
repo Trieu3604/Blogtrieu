@@ -1,22 +1,38 @@
 ---
-title: "Giới thiệu Java – Ngôn ngữ lập trình mạnh mẽ"
-date: 2025-10-01
-slug: /gioi-thieu-java/
-description: Tìm hiểu về lịch sử, đặc điểm nổi bật và ứng dụng thực tế của Java – ngôn ngữ lập trình phổ biến hàng đầu.
+title: "Java trong năm 2025: Từ Zero đến Hero"
+date: 2025-10-25
+slug: /java-2025-guide/
+description: "Hướng dẫn toàn diện về Java cho người mới bắt đầu: từ cơ bản đến advanced, roadmap học tập và career path chi tiết."
 image: images/java-intro.jpg
-caption: Ảnh minh họa ngôn ngữ Java
+caption: Java Development Journey
 draft: false
-tags: ["Java", "Giới thiệu", "Lập trình"]
-categories: ["Lập trình"]
+tags: ["Java", "Programming", "Backend Development", "Career Guide"]
+categories: ["Java Development"]
+toc: true
 ---
 
-## Giới thiệu
+## 🚀 Java trong kỷ nguyên số
 
-Nếu bạn từng sử dụng Android smartphone, giao dịch ngân hàng online, hoặc chơi Minecraft, bạn đã gián tiếp tiếp xúc với Java. Java là một trong những ngôn ngữ lập trình phổ biến và lâu đời nhất, vẫn giữ vị trí top đầu sau gần 30 năm ra đời.
+Bạn có biết? Mỗi ngày, có hơn **15 tỷ thiết bị** đang chạy Java trên toàn cầu. Từ ứng dụng Android trên điện thoại của bạn, hệ thống ngân hàng bạn đang dùng, đến game Minecraft nổi tiếng - tất cả đều được xây dựng bằng Java.
 
-Trong bài viết này, chúng ta sẽ tìm hiểu Java là gì, tại sao nó quan trọng, và liệu có đáng để bạn đầu tư thời gian học hay không.
+### 🌟 Tại sao Java vẫn "hot" trong 2025?
 
-## Java là gì?
+1. **Độ ổn định & tin cậy cao**
+   - Được hậu thuẫn bởi Oracle
+   - Cộng đồng lớn mạnh với 9 triệu developer
+   - Hệ sinh thái phong phú với hơn 350.000 thư viện
+
+2. **Cơ hội việc làm rộng mở**
+   - Top 3 ngôn ngữ được yêu cầu nhiều nhất trên LinkedIn
+   - Mức lương trung bình: $105,000/năm (US)
+   - Phổ biến trong các công ty Enterprise
+
+3. **Công nghệ hiện đại**
+   - Spring Boot 3.x với native compilation
+   - Cloud-native development
+   - Microservices architecture
+   
+## 🎯 Java cho người mới bắt đầu
 
 **Java** là ngôn ngữ lập trình hướng đối tượng (OOP), được phát triển bởi **James Gosling** và đội ngũ tại **Sun Microsystems** (nay thuộc Oracle) vào năm **1995**.
 

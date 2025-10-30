@@ -1,9 +1,10 @@
-baseURL = "https://0819778117.github.io/java-blog/"
-languageCode = "en-US"
-defaultContentLanguage = "en"
+baseURL = "https://blogcuatrieu.netlify.app/"
+canonifyURLs = true
+languageCode = "vi-VN"
+defaultContentLanguage = "vi"
 defaultContentLanguageInSubdir = false
-disableLanguages = ["zh-cn", "zh-tw", "ja", "ko", "ar", "de", "es", "fr", "it", "pt", "ru"]
-title = "Java Blog"
+disableLanguages = ["zh-cn", "zh-tw", "ja", "ko", "ar", "de", "es", "fr", "it", "pt", "ru", "en"]
+title = "Trieu's Tech Corner"
 theme = "hugo-narrow"
 
 hasCJKLanguage = true
@@ -116,7 +117,7 @@ enableEmoji = true
   images = ["/java-blog/images/og-default.svg"]
 
   [params.logo]
-    image = "/java-blog/images/logo.svg"
+    image = "/images/avatar.jpg"
     link = "/java-blog"
   
   [params.favicon]
@@ -126,7 +127,7 @@ enableEmoji = true
     name = "Le Dong Trieu"
     title = "Software Developer | Java & JavaScript Enthusiast"
     description = "Đam mê lập trình và chia sẻ kiến thức về Java, JavaScript và công nghệ web."
-    avatar = "/java-blog/images/avatar.svg"
+    avatar = "/images/avatar.jpg"
     
     [[params.author.social]]
       name = "GitHub"

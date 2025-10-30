@@ -1,23 +1,49 @@
 ---
-title: "Về tôi"
-date: 2025-10-18
-image: images/anhaboutme.jpg
-description: "Sinh viên IT đam mê lập trình, chia sẻ kiến thức về Java và JavaScript"
+title: "Chào mừng đến với Blog của Triều"
+date: 2025-10-25
+image: images/profile.jpg
+description: "Chuyện code và những câu chuyện thú vị về con đường trở thành developer"
 ---
 
-# Xin chào! 👋
+# Giới thiệu! 👋
 
+![Lê Đông Triều](/images/avatar.jpg)
+**Lê Đông Triều**  
+ **Tây Ninh**  
+ **Sinh viên năm 4 tại Trường Đại Học Công Nghệ TP.HCM-HUTECH**, chuyên ngành **Công nghệ Thông tin**.  
+📧 **Email**: dongtrieu2410@gmail.com  
+💬 **Facebook**: [Lê Đông Triều](https://www.facebook.com/LeDongTrieu.INFO/)
 
-Chào bạn, mình là **Lê Đông Triều** – hiện đang là sinh viên năm 4 ngành **Công nghệ Thông tin** tại **HUTECH TP.HCM**.
-Mình có niềm yêu thích đặc biệt với lập trình, nhất là **Java** và **JavaScript**. Blog này ra đời với mong muốn:
+## 💡 Về Blog Này
 
-- ✍️ Lưu lại kiến thức và kinh nghiệm học tập
-- 🌱 Chia sẻ những điều hữu ích cho cộng đồng
-- 🚀 Rèn luyện kỹ năng viết và tư duy logic
+Blog này là nơi mình chia sẻ:
 
-## Nội dung blog
+- 🎯 **Kinh nghiệm thực tế** trong quá trình học tập và làm việc
+- 💻 **Tutorial & Tips** về Java, Spring Boot, và các công nghệ web hiện đại
+- 🌟 **Best practices** và các pattern trong lập trình
+- 🔍 **Review & Phân tích** các công nghệ mới
+- 📚 **Resources** hữu ích cho developer
 
-📚 **Chủ đề chính:**
+## 🛠 Tech Stack
+
+Những công nghệ mình thường xuyên sử dụng:
+
+- **Backend**: Java, Spring Boot, Node.js
+- **Frontend**: React.js, JavaScript/TypeScript
+- **Database**: MySQL, MongoDB
+- **Tools**: Git, Docker, VS Code
+- **Cloud**: AWS cơ bản
+
+## 🎯 Mục Tiêu
+
+- Xây dựng một cộng đồng developer Việt Nam năng động
+- Chia sẻ kiến thức thực tế, dễ hiểu cho người mới bắt đầu
+- Cập nhật những xu hướng công nghệ mới nhất
+- Tạo ra nội dung chất lượng bằng tiếng Việt
+
+## � Kết Nối
+
+Các bạn có thể kết nối với mình qua:
 
 **Blog tập trung vào các chủ đề:**
 
@@ -32,11 +58,12 @@ Mình có niềm yêu thích đặc biệt với lập trình, nhất là **Java
 
 - Xây dựng tài liệu học tập dễ hiểu bằng tiếng Việt cho sinh viên và người mới học lập trình
 
-## Hãy kết nối với tôi!
-
-📧 **Email**: dongtrieu2410@gmail.com  
-💬 **Facebook**: [Lê Đông Triều](https://www.facebook.com/LeDongTrieu.INFO/)
-
+## Chứng chỉ 
+<div class="certificates flex flex-wrap justify-center gap-4 my-6">
+  <img src="/images/basic.jpg" alt="Basic Certificate" class="w-23 h-23 md:w-32 md:h-32 object-cover rounded-md shadow-sm" />
+  <img src="/images/java1.jpg" alt="Java Certificate 1" class="w-23 h-23 md:w-32 md:h-32 object-cover rounded-md shadow-sm" />
+  <img src="/images/java2.jpg" alt="Java Certificate 2" class="w-23 h-23 md:w-32 md:h-32 object-cover rounded-md shadow-sm" />
+</div>
 ---
 ## Góp ý và đề xuất
 
@@ -46,6 +73,5 @@ Nếu bạn có ý kiến đóng góp hoặc muốn đề xuất chủ đề m�
 
 ---
 
-> "Lập trình là hành trình khám phá tư duy, không chỉ là ghi nhớ cú pháp mà còn là rèn luyện khả năng giải quyết vấn đề thực tế."
 
 **Cảm ơn bạn đã ghé thăm blog! Chúc bạn luôn giữ vững đam mê và tiến bộ mỗi ngày. 🚀**
